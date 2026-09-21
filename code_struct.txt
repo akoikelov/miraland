@@ -1,0 +1,64 @@
+Content/
+├── 📁 Core/                      # Ядро проекта (GameMode, GameInstance, Inputs)
+│   ├── Blueprints/              # BP_GameMode, BP_PlayerController, BP_GameInstance
+│   └── Input/                   # Enhanced Input System (IA_*, IMC_*)
+│
+├── 📁 Characters/                # Персонажи и их уникальная логика
+│   ├── Mira/                    # Все материалы, связанные с Мирой
+│   │   ├── Animations/
+│   │   ├── Materials/
+│   │   └── Meshes/
+│   ├── Aimira/                  # Все материалы, связанные с Аймирой
+│   │   ├── Animations/
+│   │   ├── Materials/
+│   │   └── Meshes/
+│   └── Base/                    # Базовые классы (BP_BaseCharacter)
+│
+├── 📁 Environment/               # Окружение, архитектура и пропсы
+│   ├── Architecture/            # Дорога, забор, ворота, отель (Blockout / Final)
+│   ├── Props/                   # Мелкие объекты (знак «Озерск 500м», кувалда, бардачок)
+│   ├── Vehicles/                # Модель авто, салон, фонарик
+│   └── Materials/               # Общие/мастер-материалы окружения (M_Master_*)
+│
+├── 📁 Mechanics/                # Игровые механики и интерактивные объекты
+│   ├── Interactables/           # BP_Sledgehammer, BP_GateLock, BP_Door
+│   ├── SecondSight/             # Логика и PostProcess второго зрения Аймиры
+│   └── Triggers/                # Триггеры точки невозврата и аудио-зоны
+│
+├── 📁 UI/                       # Пользовательский интерфейс (UMG Widget Blueprints)
+│   ├── Fonts/                   # Шрифты хоррор-стилистики
+│   ├── Textures/                # Иконки, логотипы, задние фоны
+│   └── Widgets/                 # WBP_MainMenu, WBP_Subtitles, WBP_HUD
+│
+├── 📁 Audio/                    # Звуковое сопровождение
+│   ├── Ambient/                 # Звуки ветра, тумана, гул
+│   ├── SFX/                     # Звуки ударов, дверей, бардачка, двигателей
+│   ├── Dialogue/                # Озвучка реплик Миры и Аймиры
+│   └── Music/                   # Эмбиент-треки
+│
+├── 📁 Cinematics/               # Кат-сцены и анимационные ролики
+│   ├── Sequences/               # LS_IntroDrive (Level Sequences)
+│   └── Cameras/                 # Cine Camera Actors и шаблоны
+│
+├── 📁 Maps/                     # Карта уровня и сцены
+│   ├── MAP_MainMenu             # Карта Главного меню
+│   └── MAP_Intro_Blockout       # Карта первого этапа (Дорога -> Ворота)
+│
+└── 📁 Movies/                   # ⚠️ Заставки и титры (Физическая папка для Startup Movies)
+    └── IntroTitle.mp4           # Видео заставки (MP4/H.264)
+
+
+
+Тип ассета,Префикс,Пример наименования
+Blueprint Class,BP_,"BP_Mira, BP_Sledgehammer"
+Widget Blueprint (UI),WBP_,"WBP_MainMenu, WBP_Subtitles"
+Level / Map,MAP_,"MAP_MainMenu, MAP_Intro_Blockout"
+Level Sequence,LS_,LS_IntroDrive
+Input Action,IA_,"IA_SwitchCharacter, IA_Interact"
+Input Mapping Context,IMC_,IMC_DefaultControls
+Master Material,M_,M_CarPaint_Master
+Material Instance,MI_,MI_CarPaint_Red
+Static Mesh,SM_,"SM_GateLock, SM_Sledgehammer"
+Skeletal Mesh,SK_,"SK_Mira, SK_Aimira"
+Texture,T_,"T_Rust_BaseColor, T_Metal_Normal"
+Sound Cue / Wave,A_ / SFX_,"SFX_EngineBreakdown, A_WindAmbient"
