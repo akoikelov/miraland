@@ -1,0 +1,30 @@
+Content/Environment/Materials/MI_MainMenuMap_SceneCeiling.uasset
+  h_c4faabe64bde4c 2-3
+Content/Environment/Materials/MI_MainMenuMap_SceneFloor.uasset
+  h_c4faabe64bde4c 2-3
+Content/Environment/Materials/MI_MainMenuMap_SceneWall.uasset
+  h_c4faabe64bde4c 2-3
+Content/Environment/Materials/MainMenu/MI_MainMenuMap_SceneCeiling.uasset
+  h_c4faabe64bde4c 1-3
+Content/Environment/Materials/MainMenu/MI_MainMenuMap_SceneFloor.uasset
+  h_c4faabe64bde4c 1-3
+Content/Environment/Materials/MainMenu/MI_MainMenuMap_SceneWall.uasset
+  h_c4faabe64bde4c 1-3
+Content/Environment/Props/MainMenu/Lantern/BP_Lantern.uasset
+  h_c4faabe64bde4c 2-3
+Content/Maps/MAP_MainMenu.umap
+  h_c4faabe64bde4c 2-3
+Content/UI/Widgets/WBP_MainMenu.uasset
+  h_c4faabe64bde4c 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0753b12173d13413b988f76f1ec4fa60e830f57e",
+  "prompts": {},
+  "humans": {
+    "h_c4faabe64bde4c": {
+      "author": "Aikol Koikelov <aikol.koikelov@railsware.com>"
+    }
+  }
+}
