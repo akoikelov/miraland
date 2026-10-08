@@ -1,0 +1,18 @@
+Config/DefaultEngine.ini
+  h_c4faabe64bde4c 84
+Content/Maps/MAP_MainMenu.umap
+  h_c4faabe64bde4c 2
+Content/UI/Widgets/WBP_MainMenuButton.uasset
+  h_c4faabe64bde4c 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e0f89bafffb0e73aaa9342ae131225dfa83ad080",
+  "prompts": {},
+  "humans": {
+    "h_c4faabe64bde4c": {
+      "author": "Aikol Koikelov <aikol.koikelov@railsware.com>"
+    }
+  }
+}
