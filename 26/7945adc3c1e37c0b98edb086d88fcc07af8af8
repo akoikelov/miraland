@@ -1,0 +1,16 @@
+Content/Maps/MAP_MainMenu.umap
+  h_c4faabe64bde4c 2-3
+Content/UI/Widgets/WBP_MainMenu.uasset
+  h_c4faabe64bde4c 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "267945adc3c1e37c0b98edb086d88fcc07af8af8",
+  "prompts": {},
+  "humans": {
+    "h_c4faabe64bde4c": {
+      "author": "Aikol Koikelov <aikol.koikelov@railsware.com>"
+    }
+  }
+}
