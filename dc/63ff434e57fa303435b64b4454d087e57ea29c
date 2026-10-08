@@ -1,0 +1,20 @@
+Content/Core/Blueprints/BP_MenuPlayerController.uasset
+  h_c4faabe64bde4c 2-3
+Content/Maps/MAP_MainMenu.umap
+  h_c4faabe64bde4c 2-3
+Content/UI/Widgets/WBP_MainMenu.uasset
+  h_c4faabe64bde4c 2-3
+Content/UI/Widgets/WBP_MainMenuButton.uasset
+  h_c4faabe64bde4c 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dc63ff434e57fa303435b64b4454d087e57ea29c",
+  "prompts": {},
+  "humans": {
+    "h_c4faabe64bde4c": {
+      "author": "Aikol Koikelov <aikol.koikelov@railsware.com>"
+    }
+  }
+}
