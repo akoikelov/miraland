@@ -1,0 +1,28 @@
+Content/Audio/Music/MainMenu/MainMenuBackgroundMusic.uasset
+  h_c4faabe64bde4c 1-3
+Content/Core/Blueprints/BP_MenuPlayerController.uasset
+  h_c4faabe64bde4c 2-3
+Content/UI/Widgets/MainMenu/WBP_MainMenu.uasset
+  h_c4faabe64bde4c 1-3
+Content/UI/Widgets/MainMenu/WBP_MainMenuButton.uasset
+  h_c4faabe64bde4c 1-3
+Content/UI/Widgets/Splash/WBP_SplashTitles.uasset
+  h_c4faabe64bde4c 1-3
+Content/UI/Widgets/WBP_MainMenu.uasset
+  h_c4faabe64bde4c 2-3
+Content/UI/Widgets/WBP_MainMenuButton.uasset
+  h_c4faabe64bde4c 2-3
+Content/UI/Widgets/WBP_SplashTitles.uasset
+  h_c4faabe64bde4c 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5b8339f9a1321e2fd064dc1c8f30116a952dfe11",
+  "prompts": {},
+  "humans": {
+    "h_c4faabe64bde4c": {
+      "author": "Aikol Koikelov <aikol.koikelov@railsware.com>"
+    }
+  }
+}
