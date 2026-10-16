@@ -1,0 +1,20 @@
+Content/Audio/Music/MainMenu/MainMenuBackgroundMusic.uasset
+  h_c4faabe64bde4c 2-3
+Content/Core/Blueprints/BP_MenuPlayerController.uasset
+  h_c4faabe64bde4c 2-3
+Content/Core/Interfaces/BPI_MainMenuUI.uasset
+  h_c4faabe64bde4c 1-3
+Content/UI/Widgets/MainMenu/WBP_MainMenu.uasset
+  h_c4faabe64bde4c 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b3774b2799710bd055c877034dfd2da393fb901a",
+  "prompts": {},
+  "humans": {
+    "h_c4faabe64bde4c": {
+      "author": "Aikol Koikelov <aikol.koikelov@railsware.com>"
+    }
+  }
+}
