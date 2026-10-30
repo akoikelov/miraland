@@ -1,0 +1,312 @@
+Config/DefaultEngine.ini
+  h_c4faabe64bde4c 5
+Content/Audio/FX/FootSteps/SoundCue/DirtRoad_Mono_01_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/DirtRoad_Mono_02_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/DirtRoad_Mono_03_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/DirtRoad_Mono_04_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/DirtRoad_Mono_05_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Glass_Grit_Mono_01_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Glass_Grit_Mono_02_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Glass_Grit_Mono_03_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Glass_Grit_Mono_04_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Glass_Grit_Mono_05_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Ice_Mono_01_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Ice_Mono_02_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Ice_Mono_03_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Ice_Mono_04_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Ice_Mono_05_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Linoleum_Mono_01_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Linoleum_Mono_02_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Linoleum_Mono_03_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Linoleum_Mono_04_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Linoleum_Mono_05_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/LowMetal_Mono_01_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/LowMetal_Mono_02_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/LowMetal_Mono_03_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/LowMetal_Mono_04_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/LowMetal_Mono_05_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/MetalSteps_01_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/MetalSteps_02_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/MetalSteps_03_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/MetalSteps_04_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/MetalSteps_05_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Mud_Mono_01_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Mud_Mono_02_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Mud_Mono_03_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Mud_Mono_04_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Mud_Mono_05_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Parquet_Floor_Mono_01_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Parquet_Floor_Mono_02_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Parquet_Floor_Mono_03_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Parquet_Floor_Mono_04_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Parquet_Floor_Mono_05_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/PavementTiles_Mono_01_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/PavementTiles_Mono_02_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/PavementTiles_Mono_03_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/PavementTiles_Mono_04_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/PavementTiles_Mono_05_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/SnowSteps_01_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/SnowSteps_02_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/SnowSteps_03_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/SnowSteps_04_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/SnowSteps_05_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Tall_Grass_Mono_01_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Tall_Grass_Mono_02_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Tall_Grass_Mono_03_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Tall_Grass_Mono_04_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Tall_Grass_Mono_05_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Tile_Mono_01_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Tile_Mono_02_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Tile_Mono_03_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Tile_Mono_04_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Tile_Mono_05_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Undergrowth_Mono_01_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Undergrowth_Mono_02_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Undergrowth_Mono_03_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Undergrowth_Mono_04_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Undergrowth_Mono_05_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Wet_Snow_Mono_01_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Wet_Snow_Mono_02_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Wet_Snow_Mono_03_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Wet_Snow_Mono_04_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundCue/Wet_Snow_Mono_05_Cue.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/DirtRoad_Mono_01.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/DirtRoad_Mono_02.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/DirtRoad_Mono_03.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/DirtRoad_Mono_04.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/DirtRoad_Mono_05.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Glass_Grit_Mono_01.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Glass_Grit_Mono_02.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Glass_Grit_Mono_03.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Glass_Grit_Mono_04.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Glass_Grit_Mono_05.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Ice_Mono_01.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Ice_Mono_02.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Ice_Mono_03.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Ice_Mono_04.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Ice_Mono_05.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Linoleum_Mono_01.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Linoleum_Mono_02.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Linoleum_Mono_03.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Linoleum_Mono_04.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Linoleum_Mono_05.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/LowMetal_Mono_01.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/LowMetal_Mono_02.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/LowMetal_Mono_03.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/LowMetal_Mono_04.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/LowMetal_Mono_05.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/MetalSteps_01.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/MetalSteps_02.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/MetalSteps_03.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/MetalSteps_04.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/MetalSteps_05.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Mud_Mono_01.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Mud_Mono_02.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Mud_Mono_03.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Mud_Mono_04.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Mud_Mono_05.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Parquet_Floor_Mono_01.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Parquet_Floor_Mono_02.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Parquet_Floor_Mono_03.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Parquet_Floor_Mono_04.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Parquet_Floor_Mono_05.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/PavementTiles_Mono_01.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/PavementTiles_Mono_02.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/PavementTiles_Mono_03.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/PavementTiles_Mono_04.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/PavementTiles_Mono_05.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/SnowSteps_01.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/SnowSteps_02.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/SnowSteps_03.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/SnowSteps_04.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/SnowSteps_05.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Tall_Grass_Mono_01.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Tall_Grass_Mono_02.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Tall_Grass_Mono_03.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Tall_Grass_Mono_04.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Tall_Grass_Mono_05.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Tile_Mono_01.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Tile_Mono_02.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Tile_Mono_03.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Tile_Mono_04.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Tile_Mono_05.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Undergrowth_Mono_01.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Undergrowth_Mono_02.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Undergrowth_Mono_03.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Undergrowth_Mono_04.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Undergrowth_Mono_05.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Wet_Snow_Mono_01.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Wet_Snow_Mono_02.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Wet_Snow_Mono_03.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Wet_Snow_Mono_04.uasset
+  h_c4faabe64bde4c 1-3
+Content/Audio/FX/FootSteps/SoundWav/Wet_Snow_Mono_05.uasset
+  h_c4faabe64bde4c 1-3
+Content/Characters/Mira/BP_Mira.uasset
+  h_c4faabe64bde4c 2-3
+Content/Environment/Materials/Level_Intro/Blockout/HW_Road/Asphalt/Materials/MI_sjfnbeaa.uasset
+  h_c4faabe64bde4c 1-3
+Content/Environment/Materials/Level_Intro/Blockout/HW_Road/Asphalt/Textures/T_sjfnbeaa_4K_B.uasset
+  h_c4faabe64bde4c 1-3
+Content/Environment/Materials/Level_Intro/Blockout/HW_Road/Asphalt/Textures/T_sjfnbeaa_4K_H.uasset
+  h_c4faabe64bde4c 1-3
+Content/Environment/Materials/Level_Intro/Blockout/HW_Road/Asphalt/Textures/T_sjfnbeaa_4K_N.uasset
+  h_c4faabe64bde4c 1-3
+Content/Environment/Materials/Level_Intro/Blockout/HW_Road/Asphalt/Textures/T_sjfnbeaa_4K_ORM.uasset
+  h_c4faabe64bde4c 1-3
+Content/Environment/Materials/Level_Intro/Blockout/M_MapReference.uasset
+  h_c4faabe64bde4c 1-3
+Content/Environment/Materials/Level_Intro/Blockout/town_map.uasset
+  h_c4faabe64bde4c 1-3
+Content/Maps/MAP_Master_Intro.umap
+  h_c4faabe64bde4c 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "35cceb116028cc2677292bc504a7c4593ad181cc",
+  "prompts": {},
+  "humans": {
+    "h_c4faabe64bde4c": {
+      "author": "Aikol Koikelov <aikol.koikelov@railsware.com>"
+    }
+  }
+}
